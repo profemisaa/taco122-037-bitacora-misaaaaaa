@@ -11,9 +11,7 @@ Para agregar un link de manera fácil debemos utilizar los símbolos "menor que"
 
 <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
 
-También se puede agregar dentro de una línea
-
-Por ejemplo, si hago click aquí veo el [tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) de Markdown
+También se puede agregar dentro de una línea. Por ejemplo, si hago click aquí veo el [tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) de Markdown
 
 Y por último, una cosa muy útil son los bloque de código con los tildes invertidos "`"
 
